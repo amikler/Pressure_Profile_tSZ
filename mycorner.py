@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-
+#this includes a small modification on how to calculate the 68% quantiles.  Look at quantile_68 parameter and the mostcompact_68 function.
+#oroginal code from https://corner.readthedocs.io/en/latest/index.html 
 from __future__ import print_function, absolute_import
 
 import logging
